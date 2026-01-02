@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+openai
+azure-identity
+azure-cosmos
+pandas
+scikit-learn

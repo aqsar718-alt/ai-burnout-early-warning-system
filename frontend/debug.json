@@ -1,0 +1,6 @@
+[
+    {
+        "source": "flutter analyze",
+        "details": "We are getting 7 issues. Let's list files to see if something is wrong."
+    }
+]
